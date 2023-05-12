@@ -1,0 +1,6 @@
+{
+    "require": {
+        "ricbra/php-discogs-api": "^1.4",
+        "phpmailer/phpmailer": "^6.6"
+    }
+}

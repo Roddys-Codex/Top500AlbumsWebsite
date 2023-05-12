@@ -1,0 +1,17 @@
+// Bootstrap and its default variables
+@import "/Users/danielroddy/Documents/QUB Software Development MSc/Web Development/Project/projectcode/Project/version_in_progress/projectcode/node_modules/bootstrap-4.0.0/scss/_variables.scss";
+
+// Your variable overrides
+$body-bg: #929393;
+$body-color: #948273;
+
+$primary:       #FFFFFF !default;
+$secondary:     #940393 !default;
+$success:       #940393 !default;
+$info:          #940393 !default;
+$warning:       #940393 !default;
+$danger:        #940393 !default;
+$light:         #940393 !default;
+$dark:          #940393 !default;
+
+@import "/Users/danielroddy/Documents/QUB Software Development MSc/Web Development/Project/projectcode/Project/version_in_progress/projectcode/node_modules/bootstrap-4.0.0/scss/bootstrap.css";
